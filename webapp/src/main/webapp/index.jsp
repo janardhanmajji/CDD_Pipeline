@@ -69,7 +69,7 @@
   <body>
     <form action="action_page.jsp" method="post">
       <div class="container">
-        <h1>CDD Registration</h1>
+        <h1>CDD Project</h1>
         <p>Please fill in this form to create an account.</p>
         <hr />
 
@@ -135,6 +135,6 @@
     </form>
 
     <h1>Thank You, Happy Learning</h1>
-    <h1>See You Again</h1>
+    <h1>CDD Project completed</h1>
   </body>
 </html>
