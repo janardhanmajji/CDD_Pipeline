@@ -69,7 +69,7 @@
   <body>
     <form action="action_page.jsp" method="post">
       <div class="container">
-        <h1>CDD Peer Mentor project</h1>
+        <h1>CDD Final Project</h1>
         <p>Please fill in this form to create an account.</p>
         <hr />
 
